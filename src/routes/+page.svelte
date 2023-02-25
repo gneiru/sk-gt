@@ -18,7 +18,6 @@
         sit amet erat a erat hendrerit interdum. Ut ullamcorper ullamcorper
         nisi, at ullamcorper eros lacinia tincidunt.
       </p>
-      <button class="btn btn-primary">Get Started</button>
     </div>
   </div>
 </div>
